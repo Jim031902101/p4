@@ -139,7 +139,7 @@ if __name__ == '__main__':
         parser.exit(1)
     main(args.p4info, args.bmv2_json)
 
-## topology.json部分
+ //topology.json部分
 {
     "hosts": {
         "h1": {"ip": "10.0.1.1/31", "mac": "08:00:00:00:01:01",
